@@ -1,6 +1,4 @@
-# Projects MOTIVE Ecosystem
-
-MOTIVE Ecosystem 전문가시스템 설치
+# MOTIVE Ecosystem 전문가시스템 설치
 
 1. 내 컴퓨터에 R(R4.0.5)프로그램을 다운받아 설치한다.
 
